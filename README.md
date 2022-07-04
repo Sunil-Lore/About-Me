@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunil-Lore
 - 👀 I’m interested in cross platform development
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on design & development ideas
 - 📫 You can reach me @loresunil on twitter...
 
