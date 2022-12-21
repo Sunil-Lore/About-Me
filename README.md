@@ -2,7 +2,7 @@
 - 👀 I’m interested in cross platform development
 - 🌱 I’m currently learning ReactNative
 - 💞️ I’m looking to collaborate on design & development ideas
-- 📫 You can reach me @loresunil on twitter...
+- 📫 You can reach me https://www.linkedin.com/in/loresunil/ on Linkedin...
 
 <!---
 Sunil-Lore/Sunil-Lore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
