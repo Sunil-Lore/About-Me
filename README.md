@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunil-Lore
 - :computer: I am a Web Developer, Internet Marketer, and an SEO (Search Engine Optimizer)
-- 👀 I’m interested in cross platform development
+- 👀 I’m interested in Cross-Platform Development
 - 🌱 I’m currently learning ReactNative
 - 💞️ I’m looking to collaborate on design & development ideas
 - 📫 You can reach me https://www.linkedin.com/in/loresunil/ on Linkedin...
