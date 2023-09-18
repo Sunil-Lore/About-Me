@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sunil-Lore
-- :computer: I am a Web Developer, Internet Marketer, and an SEO (Search Engine Optimizer)
+- :computer: I am a Web Engineer, Internet Marketer, and an SEO (Search Engine Optimizer)
 - 👀 I’m interested in Cross-Platform Development
 - 🌱 I’m currently working on 'getcss' an intuitive css framework
 - 💞️ I’m looking to collaborate on design & development ideas
